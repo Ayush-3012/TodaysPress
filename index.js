@@ -1,6 +1,7 @@
 // const API_KEY = "33780e04ab8b4142bf17417cda780f46";
-const proxyUrl = "https://cors-anywhere.herokuapp.com/";
-const url = `${proxyUrl}https://newsapi.org/v2/everything?q=`;
+// const proxyUrl = "https://cors-anywhere.herokuapp.com/";
+// const url = `${proxyUrl}https://newsapi.org/v2/everything?q=`;
+const url = `https://newsapi.org/v2/everything?q=`;
 var i = Math.floor(Math.random() * 100);
 var navItem = document.querySelectorAll(".navItem");
 
